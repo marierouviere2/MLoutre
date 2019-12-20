@@ -20,25 +20,25 @@ Il est possible de naviguer dans l'application grâce à plusieurs fragments, re
 
 Ci-dessous, l'icône de l'application vue du menu du téléphone :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459458-capture-d-ecran-2019-04-05-a-11-51-02.png">
+<img src="https://zupimages.net/viewer.php?id=19/51/dsvg.png">
 </p>
 
 Ci-dessous, l'écran d'accueil au lancement :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459458-capture-d-ecran-2019-04-05-a-11-51-02.png">
+<img src="https://zupimages.net/viewer.php?id=19/51/s66q.png">
 </p>
 
 Ci dessous, le menu déroulant "Navigation Drawer" :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459458-capture-d-ecran-2019-04-05-a-11-51-13.png">
+<img src="https://zupimages.net/viewer.php?id=19/51/s4po.png">
 </p>
 
 Ci-dessous, l'écran Maps :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459465-capture-d-ecran-2019-04-05-a-11-53-10.png">
+<img src="https://zupimages.net/viewer.php?id=19/51/85gh.png">
 </p>
 
 Ci-dessous, l'écran Weather :
 <p align="center">
-<img src="https://image.noelshack.com/fichiers/2019/14/5/1554459465-capture-d-ecran-2019-04-05-a-11-53-10.png">
+<img src="https://zupimages.net/viewer.php?id=19/51/zzwf.png">
 </p>
