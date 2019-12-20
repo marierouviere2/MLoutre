@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="#EDD9CF">
+    android:background="#6A8FB9">
 
     <TextView
         android:id="@+id/fragment_page_profile_title"
@@ -17,6 +17,6 @@
         android:textStyle="bold"
         android:textColor="#fff"
         android:textAlignment="center"
-        android:text="Nous pourrions afficher un profil ici non ?"/>
+        android:text="Bienvenue dans MLoutre !"/>
 
 </LinearLayout>
