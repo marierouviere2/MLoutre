@@ -22,21 +22,10 @@ import com.google.android.gms.maps.OnMapReadyCallback;
  */
 public class MapsFragment extends Fragment implements OnMapReadyCallback {
 
-
-    //private static MapsFragment INSTANCE = null;
-
     View view;
 
     GoogleMap map;
     MapView mapView;
-
-    //public MapsFragment(){ }
-
-    /*public static MapsFragment getINSTANCE(){
-        if (INSTANCE == null)
-            INSTANCE = new MapsFragment();
-        return INSTANCE;
-    }*/
 
     public static MapsFragment newInstance() {
         return (new MapsFragment());
