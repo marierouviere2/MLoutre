@@ -98,9 +98,9 @@ public class WeatherFragment extends Fragment {
 
                 Long updatedAt = jsonObj.getLong("dt");
                 String updatedAtText = "Updated at: " + new SimpleDateFormat("dd/MM/yyyy hh:mm a", Locale.ENGLISH).format(new Date(updatedAt * 1000));
-                String temp = main.getString("temp") + "°C";
-                String tempMin = "Min Temp: " + main.getString("temp_min") + "°C";
-                String tempMax = "Max Temp: " + main.getString("temp_max") + "°C";
+                String temp = main.getInt("temp") + "°C";
+                String tempMin = "Min Temp: " + main.getInt("temp_min") + "°C";
+                String tempMax = "Max Temp: " + main.getInt("temp_max") + "°C";
                 String pressure = main.getString("pressure");
                 String humidity = main.getString("humidity");
 
