@@ -20,17 +20,17 @@ Il est possible de naviguer dans l'application grâce à plusieurs fragments, re
 
 Ci-dessous, l'icône de l'application vue du menu du téléphone :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=19/51/dsvg.png">
+<img src="https://zupimages.net/up/19/51/dsvg.png">
 </p>
 
 Ci-dessous, l'écran d'accueil au lancement :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=19/51/s66q.png">
+<img src="https://zupimages.net/up/19/51/s66q.png">
 </p>
 
 Ci dessous, le menu déroulant "Navigation Drawer" :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=19/51/s4po.png">
+<img src="https://zupimages.net/up/19/51/s4po.png">
 </p>
 
 Ci-dessous, l'écran Maps :
@@ -40,5 +40,5 @@ Ci-dessous, l'écran Maps :
 
 Ci-dessous, l'écran Weather :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=19/51/zzwf.png">
+<img src="https://zupimages.net/up/19/51/zzwf.png">
 </p>
