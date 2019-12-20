@@ -30,7 +30,7 @@ Enfin, je dirais que j'ai surtout appris à **corriger les beugs** générés to
 
 ## Captures d'écran
 
-Ci-dessous, l'icône de l'application vue du menu du téléphone :
+Ci-dessous, l'**icône** de l'application vue du menu du téléphone :
 <p align="center">
 <img src="https://zupimages.net/up/19/51/dsvg.png">
 </p>
