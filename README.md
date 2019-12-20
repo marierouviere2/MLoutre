@@ -1,4 +1,5 @@
-# MLoutre by Marie Rouvière
+# MLoutre
+*by Marie Rouvière*
 
 Cette application mobile a été réalisée dans le cadre d'un projet en 4ème année à l'ESIEA Ivry, via **Android Studio**.
 Ainsi, elle imlpémente plusieurs fonctionnalités comme GoogleMaps ou encore la météo, grâce aux API **Google Developpers** et **Open Weather Map**
