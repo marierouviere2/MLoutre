@@ -18,15 +18,15 @@ Il est possible de naviguer dans l'application grâce à plusieurs fragments, re
 
 ## Apprentissages
 
-Ce projet m'a permis d'approfondir mes connaissances sur l'utilisation d'Android Studio.
+Ce projet m'a permis d'**approfondir mes connaissances** sur l'utilisation d'Android Studio.
 
-En effet, j'ai pu découvrir l'utilisation des fragments, me permettant de gagner en fluidité, facilité d'implémentation et de proposer des designs plus travaillés et plus esthétiques à l'utilisateur (notemment via le navigation drawer). 
+En effet, j'ai pu découvrir l'utilisation des **fragments**, me permettant de gagner en fluidité, facilité d'implémentation et de proposer des designs plus travaillés et plus esthétiques à l'utilisateur (notemment via le Navigation Drawer). 
 
-J'ai également perfectionné mes connaissances sur les API et leurs appels puisque j'ai tout d'abord essayé d'implémenter celle proposée par Instagram. Même si cette première idée n'a pas fonctionée (API trop complexe à mettre en place), c'était intéressant à mettre en oeuvre (ou du moins, essayer).
+J'ai également perfectionné mes connaissances sur les **API** et leurs appels puisque j'ai tout d'abord essayé d'implémenter celle proposée par Instagram avec une authentification par clé. Même si cette première idée n'a pas fonctionée (API trop complexe à mettre en place avec plusieurs clés à générer successivement), c'était intéressant à mettre en oeuvre (ou du moins, essayer ?).
 
-Ensuite, j'ai pu pleinement modifier le design de mon application (logo, barres....) mais aussi respecter l'architecture demandée : MVC dans l'arborescence de mes fichiers.
+Ensuite, j'ai pu pleinement modifier le **design** de mon application (logo, barres....) mais aussi respecter l'**architecture** demandée : **MVC** dans l'arborescence de mes fichiers.
 
-Enfin, je dirais que j'ai surtout appris à corriger les beugs générés tout au long du projet : de l'implémentation des bibliothèques aux différentes versions d'Android (utilisation d'Android X) en passant par les fonctions propres (ou non) aux activités (FindViewByIdea non utilisable dans un fragment)
+Enfin, je dirais que j'ai surtout appris à **corriger les beugs** générés tout au long du projet : de l'implémentation des bibliothèques aux différentes versions d'Android (utilisation d'**Android X**) en passant par les fonctions propres (ou non) aux activités (FindViewByIdea non utilisable dans un fragment)
 
 ## Captures d'écran
 
@@ -35,22 +35,22 @@ Ci-dessous, l'icône de l'application vue du menu du téléphone :
 <img src="https://zupimages.net/up/19/51/dsvg.png">
 </p>
 
-Ci-dessous, l'écran d'accueil au lancement :
+Ci-dessous, l'écran d'**accueil au lancement** :
 <p align="center">
 <img src="https://zupimages.net/up/19/51/s66q.png">
 </p>
 
-Ci dessous, le menu déroulant "Navigation Drawer" :
+Ci dessous, le **menu déroulant** "Navigation Drawer" :
 <p align="center">
 <img src="https://zupimages.net/up/19/51/s4po.png">
 </p>
 
-Ci-dessous, l'écran Maps :
+Ci-dessous, l'écran **Maps** :
 <p align="center">
 <img src="https://zupimages.net/up/19/51/327b.png">
 </p>
 
-Ci-dessous, l'écran Weather :
+Ci-dessous, l'écran **Weather** :
 <p align="center">
 <img src="https://zupimages.net/up/19/51/zzwf.png">
 </p>
