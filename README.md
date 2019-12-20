@@ -13,7 +13,7 @@ Il est possible de naviguer dans l'application grâce à plusieurs fragments, re
 
     - ProfileFragment : écran par défaut au lancement de l'aplication, affiche le texte d'acceuil
     - MapsFragment : Affiche la carte récupérée via l'API Google Maps
-    - WeatherFragment : Affiche la météo de la ville passé en paramètre de la classe, ici Paris
+    - WeatherFragment : Affiche la météo de la ville passée en paramètre de la classe, ici Paris
   
     - Le design du bandeau et l'icône de lancement de l'aplication ont également étés modifiés, dans des soucis esthétiques.
 
@@ -26,6 +26,7 @@ En effet, j'ai pu découvrir l'utilisation des **fragments**, me permettant de g
 J'ai également perfectionné mes connaissances sur les **API** et leurs appels puisque j'ai tout d'abord essayé d'implémenter celle proposée par Instagram avec une authentification par clé. Même si cette première idée n'a pas fonctionée (API trop complexe à mettre en place avec plusieurs clés à générer successivement), c'était intéressant à mettre en oeuvre (ou du moins, essayer ?).
 
 Ensuite, j'ai pu pleinement modifier le **design** de mon application (logo, barres....) mais aussi respecter l'**architecture** demandée : **MVC** dans l'arborescence de mes fichiers.
+J'ai aussi utilisé **Github** afin de partager les différentes version de mon application, lors du développement (branche *develop* ou de la phase finale (branche *master*)
 
 Enfin, je dirais que j'ai surtout appris à **corriger les beugs** générés tout au long du projet : de l'implémentation des bibliothèques aux différentes versions d'Android (utilisation d'**Android X**) en passant par les fonctions propres (ou non) aux activités (FindViewByIdea non utilisable dans un fragment)
 
