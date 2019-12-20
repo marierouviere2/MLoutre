@@ -35,7 +35,7 @@ Ci dessous, le menu déroulant "Navigation Drawer" :
 
 Ci-dessous, l'écran Maps :
 <p align="center">
-<img src="https://zupimages.net/viewer.php?id=19/51/85gh.png">
+<img src="https://zupimages.net/up/19/51/85gh.png">
 </p>
 
 Ci-dessous, l'écran Weather :
