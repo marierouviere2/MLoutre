@@ -1,4 +1,4 @@
-# MLoutre
+# MLoutre by Marie Rouvière
 
 Cette application mobile a été réalisée dans le cadre d'un projet en 4ème année à l'ESIEA Ivry, via **Android Studio**.
 Ainsi, elle imlpémente plusieurs fonctionnalités comme GoogleMaps ou encore la météo, grâce aux API **Google Developpers** et **Open Weather Map**
@@ -16,7 +16,19 @@ Il est possible de naviguer dans l'application grâce à plusieurs fragments, re
   
     - Le design du bandeau et l'icône de lancement de l'aplication ont également étés modifiés, dans des soucis esthétiques.
 
-## Images
+## Apprentissages
+
+Ce projet m'a permis d'approfondir mes connaissances sur l'utilisation d'Android Studio.
+
+En effet, j'ai pu découvrir l'utilisation des fragments, me permettant de gagner en fluidité, facilité d'implémentation et de proposer des designs plus travaillés et plus esthétiques à l'utilisateur (notemment via le navigation drawer). 
+
+J'ai également perfectionné mes connaissances sur les API et leurs appels puisque j'ai tout d'abord essayé d'implémenter celle proposée par Instagram. Même si cette première idée n'a pas fonctionée (API trop complexe à mettre en place), c'était intéressant à mettre en oeuvre (ou du moins, essayer).
+
+Ensuite, j'ai pu pleinement modifier le design de mon application (logo, barres....) mais aussi respecter l'architecture demandée : MVC dans l'arborescence de mes fichiers.
+
+Enfin, je dirais que j'ai surtout appris à corriger les beugs générés tout au long du projet : de l'implémentation des bibliothèques aux différentes versions d'Android (utilisation d'Android X) en passant par les fonctions propres (ou non) aux activités (FindViewByIdea non utilisable dans un fragment)
+
+## Captures d'écran
 
 Ci-dessous, l'icône de l'application vue du menu du téléphone :
 <p align="center">
@@ -42,14 +54,5 @@ Ci-dessous, l'écran Weather :
 <p align="center">
 <img src="https://zupimages.net/up/19/51/zzwf.png">
 </p>
-
-
-## Apprentissages
-
-Ce projet m'a permis d'approfondir mes connaissances sur l'utilisation d'Android Studio.
-En effet, j'ai pu découvrir l'utilisation des fragments, me permettant de gagner en fluidité, facilité d'implémentation et de proposer des designs plus travaillés et plus esthétiques à l'utilisateur (notemment via le navigation drawer). 
-J'ai également perfectionné mes connaissances sur les API et leurs appels puisque j'ai tout d'abord essayé d'implémenter celle proposée par Instagram. Même si cette première idée n'a pas fonctionée (API trop complexe à mettre en place), c'était intéressant à mettre en oeuvre (ou du moins, essayer).
-Ensuite, j'ai pu pleinement modifier le design de mon application (logo, barres....) mais aussi respecter l'architecture demandée : MVC dans l'arborescence de mes fichiers.
-Enfin, je dirais que j'ai surtout appris à corriger les beugs générés tout au long du projet : de l'implémentation des bibliothèques aux différentes versions d'Android (utilisation d'Android X) en passant par les fonctions propres (ou non) aux activités (FindViewByIdea non utilisable dans un fragment)
 
 
